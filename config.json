@@ -1,7 +1,7 @@
 {
   "devMode": true,
   "timeZone": "Asia/Dhaka",
-  "prefix": "!",
+  "prefix": "/",
   "symbols": "●",
   "owner": {
     "name": "YOUR_NAME",
@@ -9,10 +9,10 @@
     "username": "TG_USERNAME"
   },
   "admin": [
-    "ADMIN_UID"
+    "7096786747"
   ],
   "vip": [
-    "VIP_UID"
+    "7096786747"
   ],
   "loadCmds": true,
   "loadEvents": true,
